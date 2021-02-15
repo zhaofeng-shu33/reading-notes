@@ -1,34 +1,33 @@
 # Treatise on Learning Motivation
 2015/9/3
 
-近期因于致力于计科之motivation有感，而作此篇，然其范畴已入学习动机论，不只局限于计科某专门之域也。
+近期因于致力于计科之 motivation 有感，而作此篇，然其范畴已入学习动机论，不只局限于计科某专门之域也。
 
-Ebrary 为吾校订购之一大外文图书来源，前日余居于乡土，查Physics
-Olympiad，即于此站点见数册辅导书籍，且无意间见吾国供给给国际组委会之Chinese
-Mathematics
-Olympiad试题集，以年代而量之，正为吾人备考此赛事之时也，余见内中有己曾劳神苦思之题目，正如君言，"陌生且熟悉"之感，然言此不过见此站点收书之广，且有大量非学术类之电子图书也。
+Ebrary 为吾校订购之一大外文图书来源，前日余居于乡土，查 Physics
+Olympiad，即于此站点见数册辅导书籍，且无意间见吾国供给给国际组委会之 Chinese
+Mathematics Olympiad 试题集。以年代而量之，正为吾人备考此赛事之时也，余见内中有己曾劳神苦思之题目，正如君言，"陌生且熟悉"之感，然言此不过见此站点收书之广，且有大量非学术类之电子图书也。
 
-于学习动机论一主题，前日余有读某版本之Psychology of
-Education，其中于此题有数十页之阐述。盖其论各家之精要，亦非自创一说也。然此书多于Pupils之教育法举例。而青年之学习动机，与children
-亦有所别，故余仅取其中普遍原理者转述且发挥之。心学大师Bruner有学校之formal
-education decontextualised 一说，即谓 learning occurs separately from
+于学习动机论一主题，前日余有读某版本之 Psychology of
+Education，其中于此题有数十页之阐述。盖其论各家之精要，亦非自创一说也。然此书多于 Pupils 之教育法举例。而青年之学习动机，与children
+亦有所别，故余仅取其中普遍原理者转述且发挥之。心学大师 Bruner 有学校之 formal
+education decontextualised 一说，即谓 "learning occurs separately from
 the actual thing or process that is being studied and therefore requires
-specific and conscious effort to maintain involvement。Formal education
-提高知识传递效率与脱离知识产生之具体语境相伴随，此种情况之发生，可引杜威之言：the
-education which everyone gets from living with others . . . and the
-deliberate educating of the young. . . . Savage groups . . . have no
+specific and conscious effort to maintain involvement."
+Formal education
+提高知识传递效率与脱离知识产生之具体语境相伴随，此种情况之发生，可引杜威之言：
+The education which everyone gets from living with others... and the
+deliberate educating of the young... Savage groups... have no
 special devices, materials, or institutions for teaching save in
-
 connection with initiation ceremonies by which the youth are inducted
-into full social membership.. . . To savages, it would seem preposterous
+into full social membership... To savages, it would seem preposterous
 to seek out a place where nothing but learning was going on in order
 that one might learn. But as civilization advances, the gap between the
 capacities of the young and the concerns of adults widens. Learning by
 direct sharing in the pursuits of grown-ups becomes increasingly
-difficult.正因此种formal education
-之特点，learners须有特别之动机方有持恒之效，以致成学之功。此为今日学习动机论不可不讲之因也。
+difficult. 正因此种 formal education
+之特点，learners 须有特别之动机方有持恒之效，以致成学之功。此为今日学习动机论不可不讲之因也。
 
-学习动机往往不可置于所学之内容本身而言之，而恒出于他者：外部性倾向明显的理论，有John
+学习动机往往不可置于所学之内容本身而言之，而恒出于他者：外部性倾向明显的理论，有 John
 Atkinson 的成就论（achievement motivation），Weiner之归因论(attribution
 motivation).成就论以获得成功与避免失败二途论学习动机，以余人之学习阶段而言之，可由致力拿满分与避免挂科而解释学习动机；至于归因论，则为learner自身对学习结果的阐释，有Ability
 and Intelligence; External factors like the task difficulty;
