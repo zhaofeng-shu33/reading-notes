@@ -1,13 +1,15 @@
 \documentclass{ctexart}
+\usepackage{ifplatform}
+\IfFileExists{/dev/null}{
+\IfFileExists{/Library/Fonts/Songti.ttc}{}
+{\setCJKmainfont[BoldFont = NotoSansCJK-Bold.ttc]{NotoSansCJK-Regular.ttc}}
+}{}
 \usepackage{enumitem}
 \usepackage[symbol]{footmisc}
 \usepackage{sidenotes}
 \title{春秋左氏傳/文公\footnote{Exported from Wikisource on 2021年4月6日}}
 \begin{document}
 \maketitle
-
-
-
 
 
 
