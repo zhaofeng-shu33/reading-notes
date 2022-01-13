@@ -39,6 +39,11 @@ Below is the book I read partially
 * 史记选本（本纪为主）
 * 古文观止 (use the abridged version, 熟读原书50%左右)
 
+From the third year of high school, I can make my reading list in different periods.
+They are constructed from the records of books I borrowed from library and other
+electronic documentation. Though I only read some books partially, these books
+have significant influence on my mind. For these books, I include them into the list.
+
 ## 2012/9-2013/6
 * 红楼梦诗词今译 金城出版社
 * Jane Eyre
@@ -59,12 +64,19 @@ Below is the book I read partially
 * 四书章句集注孟子部分
 * 明史讲义 孟森
 * The Gadfly
+* Tales from Shakespeare (Lamb Charles)
 
 ## 2014/9 - 2015/8
 * Wuthering Heights
-
+* 桃花扇
+* 平山冷燕
+* 1984 (original version, Orwell, George)
+* 中国大历史(吕思勉, partial)
+* The Study of Sociology （Spencer, Herbert，严复译为群学肄言, partial)
+ 
 ## 2016/9 - 2017/6
 * 耶路撒冷告白
+* 牡丹亭 (partial)
 
 ## 2017/7 - 2017/8
 * 六祖坛经
@@ -83,6 +95,7 @@ Below is the book I read partially
 * 活着
 * 诗经全注全译 （王秀梅)
 * 杜甫诗选 张忠纲
+* 东周列国志（春秋部分）
 * Pride and Prejudice
 * Educated
 
