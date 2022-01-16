@@ -46,6 +46,7 @@ have significant influence on my mind. For these books, I include them into the 
 
 ## 2012/9-2013/6
 * 红楼梦诗词今译 金城出版社
+* The Story of My Life
 * Jane Eyre
 * 走进翻译 （林庆扬)
 
