@@ -106,5 +106,5 @@ have significant influence on my mind. For these books, I include them into the 
 * 罗马史 (author: Philip van Ness Myers)
 * 光明共和国
 * 万历十五年 (1587, a year of no significance. read half in English, half in Chinese)
-* 中国大历史
+* 中国大历史 (Ray Huang)
 * 四书章句集注 （only read partial comments)
