@@ -90,7 +90,7 @@ have significant influence on my mind. For these books, I include them into the 
 * The wonderful Wizard of Oz
 * Alice's Adventures in Wonderland
 * Story of the Bible (by Jesse Lyman Hurlbut)
-* The Outline of History (partial)
+* The Outline of History (partial, by Herbert George Well)
 
 ## 2020/5 - 2021/6
 * 活着
