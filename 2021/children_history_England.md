@@ -1,4 +1,8 @@
 # A Child's History of England
+This books focus mainly on the political history of England,
+which provides a general background for each period of England up to
+the glorious revolution in 1688.
+
 ## Chapter 8
 It is mentioned in the book that after dying of the Norman Conqueror, his
 servants contested for personal profit instead of looking after his body.
