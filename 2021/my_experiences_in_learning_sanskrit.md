@@ -3,7 +3,9 @@
 这本词典要用拉丁转写查单词原型，一个单词的意思比较多，不太适合初学者查询，不过也找不到更好的。另外在 http://en.wiktionary.org/ 英语维基词典中也可以查梵语单词，并且有单词变格和变位的信息。缺点是只能用天城体查询，有的变位后的形式能查到，有的查不到。
 我自己在网上找了一些用英语学梵语的资源，觉得不错的列在下面以供参考。
 
-1. Introductory Sanskrit - Course (introductory-sanskrit.com) 这个网站上有配套教材课后单词的读音和一部分课后练习、语法 paradigm 的读音。但音频资源相对也比较少，课后练习没有官方的答案。有一个用户贡献的部分答案可以参考：
+1. Introductory Sanskrit - Course (introductory-sanskrit.com) 这个网站上有配套教材课后单词的读音和一部分课后练习、语法 paradigm 的读音。
+http://www.introductory-sanskrit.com/
+但音频资源相对也比较少，课后练习没有官方的答案。有一个用户贡献的部分答案可以参考：
 实测发现错误很多：https://pdfcoffee.com/samskrtasubodhini-a-sanskrit-primer-m-deshpande-2007-answers-pdf-free.html
 
 2. The Joy of Sanskrit
