@@ -9,7 +9,9 @@ http://www.introductory-sanskrit.com/
 实测发现错误很多：https://pdfcoffee.com/samskrtasubodhini-a-sanskrit-primer-m-deshpande-2007-answers-pdf-free.html
 
 2. The Joy of Sanskrit
+https://press.anu.edu.au/publications/textbooks/joy-sanskrit
 这是一本有声电子书，个人觉得每一课的 spoken sanskrit 这一个 section 可以参考，另外也有一些简单的梵语句子的语音可以听。不过这本书前面正文里大部分在用拉丁转写，感觉不是很地道。
+
 3. https://www.thesanskritlanguage.com/
 这是被1. 提到的另一个学习梵语的网站，也有小部分梵语句子的 audio 可以听。
 
