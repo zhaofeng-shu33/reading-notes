@@ -4,6 +4,7 @@
 * [“悦读分享会”线上读剧会：莎士比亚《仲夏夜之梦》专场](https://mp.weixin.qq.com/s/dMRO8RVOs7pGjx7S2qHUJQ)
 * [云上剧场《浮士德》](https://mp.weixin.qq.com/s/9nTDvfDCcDJV2f65Zbe8Rw)
 ## Offline
+* [北京曲剧茶馆）](https://mp.weixin.qq.com/s/SCLXWlrt87mXnAyzAFSCNQ)
 * [水木年华演唱会](https://mp.weixin.qq.com/s/n4vUjJjN3nSBZ_-0mYwjhg)
 * [“声音书房”为你说说诗词里的寒梅傲雪](https://mp.weixin.qq.com/s/oS7_-giv83VnTa8evk48KQ)
 * [“海上升明月.中国诗魂”文艺专场](https://mp.weixin.qq.com/s/Uz2HKgSfvq931SaoNXN4_g)
