@@ -17,5 +17,7 @@
 * [《周易》“谦卦”与职业美德](https://mp.weixin.qq.com/s/hDPeDObJTBCwh9UPS5aazA)
 * [朱熹与王阳明读书之法的比较](https://mp.weixin.qq.com/s/xEWpqLGHvgVY9pMeWPCdwQ)
 * [第29期“邺架轩•作者面对面”活动带领读者回到《山海经》的世界](https://mp.weixin.qq.com/s/8n0t5Klf64B9q9MRn1KAsQ)
+* [第30期“邺架轩•作者面对面”回归文本：快时代的慢阅读](https://mp.weixin.qq.com/s/lQvNaYEaXqK-tWVruRcTcw)
+
 ### Online
 * [《鼠疫》线上读书会](https://mp.weixin.qq.com/s/DhJ8IRfqgaa3FJTC22tlJA)
