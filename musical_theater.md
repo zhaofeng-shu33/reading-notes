@@ -3,6 +3,7 @@
 * [高校版牡丹亭](https://mp.weixin.qq.com/s/dpYcWn-gBHHDfzVTwm4mYA)
 * [“悦读分享会”线上读剧会：莎士比亚《仲夏夜之梦》专场](https://mp.weixin.qq.com/s/dMRO8RVOs7pGjx7S2qHUJQ)
 * [云上剧场《浮士德》](https://mp.weixin.qq.com/s/9nTDvfDCcDJV2f65Zbe8Rw)
+
 ## Offline
 * [北京曲剧茶馆）](https://mp.weixin.qq.com/s/SCLXWlrt87mXnAyzAFSCNQ)
 * [水木年华演唱会](https://mp.weixin.qq.com/s/n4vUjJjN3nSBZ_-0mYwjhg)
@@ -12,6 +13,14 @@
 * [2022校园戏曲节——北方昆曲剧院昆曲《长生殿》](https://mp.weixin.qq.com/s/1XMtDz093zbhG7o_G9XJ8w)
 * [2017校园戏曲节——一戏两看《桃花扇》](https://mp.weixin.qq.com/s/rRE7bx2Ifq6gnARitnGpug)
 * [读剧（巴金的《家》 胡里奥.亚历亨德罗的《叶塞尼亚》）](https://mp.weixin.qq.com/s/P1LMLzaghPLmvbhXFjv_Gg)
+* [爱读夜·古代天文初阶](https://mp.weixin.qq.com/s/2tdpRGDj5tUneQfZ_hjvqA)
+
+## Mixture of online and offline
+The speaker is online while there is a group of audiences offline.
+
+[作为世界文学的后殖民文学](https://mp.weixin.qq.com/s/-bzodDpBcpsKL_3dEVQSYQ)
+
+I left in the middle of this lecture. It is too theoretical for me.
 
 ## Lectures
 * [“爱读夜·观止堂” 《道德经》导读系列活动](https://mp.weixin.qq.com/s/u_P_v5N22czETGdvljwWcA)
