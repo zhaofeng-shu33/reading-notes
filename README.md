@@ -59,8 +59,8 @@ have significant influence on my mind. For these books, I include them into the 
 * 百年孤独
 * Moment in Peking
 * The Gay Genius
-* Pilgrim's Progress
-* The Autobiography of Benjamin Franklin
+* Pilgrim's Progress (partial)
+* The Autobiography of Benjamin Franklin (partial)
 
 ## 2013/9 - 2014/8
 * 四书章句集注孟子部分
