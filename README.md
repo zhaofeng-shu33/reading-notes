@@ -37,7 +37,7 @@ For Chinese books, below is a partial list of books I read completely:
 Below is the book I read partially
 * 张居正大传 
 * 史记选本（本纪为主）
-* 古文观止 (use the abridged version, 熟读原书50%左右)
+* 古文观止 (use an abridged version, 熟读原书50%左右)
 
 From the third year of high school, I can make my reading list in different periods.
 They are constructed from the records of books I borrowed from library and other
