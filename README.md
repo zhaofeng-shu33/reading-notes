@@ -27,6 +27,7 @@ Possibly the following partial lists are complete translation since the original
 * 老人与海
 
 For Chinese books, below is a partial list of books I read completely:
+* 骆驼祥子
 * 两宋风云
 * 长恨歌 （蒙曼说唐）
 * 水浒传
