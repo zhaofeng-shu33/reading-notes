@@ -11,13 +11,13 @@ Identity: Auditor of class 98
 
 ## Introduction of Daddy-Long-Legs
 
-This is a obscure love novel by American writer, Jean Webster. It gives account of the experience of a girl called Jerusha out of asylum. She was subsidized by a mysterious trustee called Daddy-Long-Legs by Jerusha. she finished  four-year undergraduate education successfully. During her summer vacation, she spends a wonderful time with Jervis, uncle of one of her roommate. It doesn’t turn out that Jervis is the same person with Daddy-Long-Legs. And Jerusha finally shows her love to Jervis.
+This is a obscure love novel by American writer, Jean Webster. It gives account of the experience of a girl called Jerusha out of asylum. She was subsidized by a mysterious trustee called Daddy-Long-Legs by Jerusha. Then she finished the four-year undergraduate education successfully. During her summer vacation, she spends a wonderful time with Jervis, the uncle of one of her roommate. It doesn’t turn out that Jervis is the same person with Daddy-Long-Legs. And Jerusha finally shows her love to Jervis.
 
-The form of the book only applies letters from Jerusha to Jervis. By making account of details of life and passionate love, it expresses an attitude to live freely and independently. Especially, to “drop a kiss on those lips sternly” (Brontë,1847, Chapter 37).  It coincides with value of Americans.
+The form of the book only applies letters from Jerusha to Jervis. By making account of details of life and passionate love, it expresses an attitude to live freely and independently. Especially, to “drop a kiss on those lips sternly” (Brontë, 1847, Chapter 37). It coincides with the value of Americans.
 
 ## Assessment and evaluation
 
-Doubtlessly, the genre of Daddy-Long-Legs is similar to Jane Eyre (Charlotte Brontë,1847). The hero hides some important facts towards the heroin, and makes detours to get together with the heroin when he is physically damaged. Both the two books reflect the influence of traditional family status on marriage. Both writers use a large number of sensational descriptions, reflecting the complex inner activity of the heroin.
+Doubtlessly, the genre of Daddy-Long-Legs is similar to Jane Eyre (Charlotte Brontë, 1847). The hero hides some important facts towards the heroin, and makes detours to get together with the heroin when he is physically damaged. Both the two books reflect the influence of traditional family status on marriage. Both writers use a large number of sensational descriptions, reflecting the complex inner activity of the heroine.
 
 However, Daddy-Long-Legs has unique features. It seems to depict much more of the university life of Jerusha and successfully put the main theme of the book backstage. It includes many aspects of university life like clothes, gymnasium etc. It uses simple and figurative words and sentences to illustrate complex philosophy.
 
