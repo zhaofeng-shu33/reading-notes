@@ -14,3 +14,11 @@ Story 23
 > 凡不附贼者，密授以白布小旗，约兵至日，插旗门首，戒军兵无妄杀，全活万人
 
 可见在门上做标记区分我族类和非我族类东西方同之。
+
+Story 26
+
+> And on that day three thousand of the worshippers of the idol were slain by the sons of Levi.
+
+感觉是旧约故事里第一次大规模地人杀人的事件，起因就是因为
+有一部分人 worship idol (calf)，结果被 Moses 一帮人给杀了。
+旧约里为维护教义的血腥可见一斑。
