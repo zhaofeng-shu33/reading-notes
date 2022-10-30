@@ -189,6 +189,7 @@ two books by Camus (English translation), four books by Hermann Hesse
 * 小王子 The little prince (read both Chinese and English translation)
 * 追风筝的人
 * 摆渡人
+* 萤火虫小巷
 * Normal People
 * 家 : 激流三部曲之一
 * 红楼梦 人民文学出版社 （主要完整读完了后四十回）
