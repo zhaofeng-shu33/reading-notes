@@ -12,3 +12,4 @@ Most books are textbooks used in my undergraduate courses.
 * 朱文涛. 基础物理化学(上). 北京: 清华大学出版社, 2011
 * Pathria, Raj Kumar. Statistical mechanics. Elsevier, 2016.
 * Cover, Thomas M. Elements of information theory. John Wiley \& Sons, 1999.
+* 关治, 陆金甫. 数值分析基础（第2版）.  北京 ：高等教育出版社, 2010
