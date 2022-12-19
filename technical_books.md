@@ -14,3 +14,4 @@ Most books are textbooks used in my undergraduate courses.
 * Cover, Thomas M. Elements of information theory. John Wiley \& Sons, 1999.
 * 关治, 陆金甫. 数值分析基础（第2版）.  北京 ：高等教育出版社, 2010
 * 陆金甫，关治. 偏微分方程数值解法（第2版）. 北京 ：清华大学出版社， 2004
+* 程序设计基础（第3版） 吴文虎等编著，清华大学出版社， 2010
